@@ -1,0 +1,7 @@
+*.sh
+*.html
+__pycache__/
+.ipynb_checkpoints/
+work/
+my-project-test-341511-463b29901330.json
+
